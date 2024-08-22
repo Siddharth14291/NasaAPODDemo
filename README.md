@@ -1,6 +1,5 @@
 # iOS-WalE
 Table of Contents:
-
 1. Description
 2. Getting started
 3. Arhitecture
@@ -8,6 +7,7 @@ Table of Contents:
 5. API
 
 
+---------------
 1. Description
 	NASA releases the Astronomy Picture of the Day everyday. This is accompanied by the title of the picture and a short explanation of about it. This project is developed using Swift programming language and MVVM architecture design pattern with minimum version support of iOS 14.0.
 
